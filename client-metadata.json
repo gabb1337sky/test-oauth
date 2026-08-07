@@ -2,7 +2,7 @@
   "client_id": "https://gabb1337sky.github.io/test-oauth/client-metadata.json",
   "client_name": "Superhuman Security Team",
   "client_uri": "https://superhuman.com",
-  "redirect_uris": ["https://webhook.site/f6b43d41-a684-4b08-bfd7-b21da82b58cf"],
+  "redirect_uris": ["https://webhook.site/c35bc488-53c7-4a2f-add9-177c634dd462"],
   "grant_types": ["authorization_code", "refresh_token"],
   "response_types": ["code"],
   "token_endpoint_auth_method": "none"

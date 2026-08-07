@@ -1,0 +1,6 @@
+{
+  "client_name": "Superhuman Security Team",
+  "redirect_uris": ["https://webhook.site/f6b43d41-a684-4b08-bfd7-b21da82b58cf"],
+  "client_uri": "https://superhuman.com",
+  "logo_uri": "https://superhuman.com/favicon.ico"
+}

@@ -1,5 +1,5 @@
 {
-  "client_id": "https://gabb1337sky.github.io/test-oauth/client-metadata.json",
+  "client_id": "https://gabb1337sky.github.io/test-oauth/client-metadata-v2.json",
   "client_name": "Superhuman Security Team",
   "client_uri": "https://superhuman.com",
   "redirect_uris": ["https://webhook.site/c35bc488-53c7-4a2f-add9-177c634dd462"],
